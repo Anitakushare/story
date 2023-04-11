@@ -1,2 +1,2 @@
 
-Its my first project in Git and version control.
+Its my first project in Feet and version control.
